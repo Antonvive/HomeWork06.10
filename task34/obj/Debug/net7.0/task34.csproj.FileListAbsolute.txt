@@ -1,0 +1,5 @@
+C:\Users\Anton\Desktop\HW\task34\obj\Debug\net7.0\task34.csproj.AssemblyReference.cache
+C:\Users\Anton\Desktop\HW\task34\obj\Debug\net7.0\task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Desktop\HW\task34\obj\Debug\net7.0\task34.AssemblyInfoInputs.cache
+C:\Users\Anton\Desktop\HW\task34\obj\Debug\net7.0\task34.AssemblyInfo.cs
+C:\Users\Anton\Desktop\HW\task34\obj\Debug\net7.0\task34.csproj.CoreCompileInputs.cache
